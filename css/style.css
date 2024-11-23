@@ -1,0 +1,29 @@
+div {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  h1 {
+    font-size: 4em;
+    font-weight: bolder;
+  }
+  #quote-container {
+    margin-top: 20px;
+    font-size: 2.1em;
+  }
+  #author {
+    margin-top: 10px;
+    font-size: 2em;
+  }
+  button {
+    padding: 25px 35px;
+    font-size: 1.2em;
+    background-color: #0000ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #00ff00;
+  }
